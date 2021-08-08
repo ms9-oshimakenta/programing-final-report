@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "最終課題base to キーボード", "最終課題base to キーボード\最終課題base to キーボード.vcxproj", "{B2EDE299-3120-4C34-87F7-CA38E7541007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Debug|x64.ActiveCfg = Debug|x64
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Debug|x64.Build.0 = Debug|x64
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Debug|x86.Build.0 = Debug|Win32
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Release|x64.ActiveCfg = Release|x64
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Release|x64.Build.0 = Release|x64
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Release|x86.ActiveCfg = Release|Win32
+		{B2EDE299-3120-4C34-87F7-CA38E7541007}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F6D30F9-A922-4318-902A-4672B9AD8B9C}
+	EndGlobalSection
+EndGlobal
